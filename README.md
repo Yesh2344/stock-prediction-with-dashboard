@@ -4,6 +4,12 @@
 
 This powerful Python application combines real-time stock analysis with machine learning-based predictions, providing traders and investors with a robust toolkit for making informed decisions.
 
+### 🖼️ Screenshots
+
+![Stock Dashboard](stock.png)
+*Stock Analysis Dashboard showing real-time data and technical indicators*
+
+
 ### 🌟 Key Features
 
 1. **Dynamic Stock Dashboard**
@@ -47,7 +53,7 @@ This powerful Python application combines real-time stock analysis with machine 
    ```
 4. Run the app:
    ```
-   streamlit run main.py
+   streamlit run app.py
    ```
 
 ### 💡 How It Works
@@ -71,14 +77,4 @@ We welcome contributions! Please follow these steps:
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Empower your trading decisions with data-driven insights and AI predictions. Star ⭐ this repo if you find it useful!
+3. Commit your changes (`git commit -m 'Add some AmazingFe
