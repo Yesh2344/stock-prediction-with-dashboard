@@ -41,7 +41,7 @@ This powerful Python application combines real-time stock analysis with machine 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/stock-analysis-prediction.git
+   git clone https://github.com//stock-analysis-prediction.git
    ```
 2. Navigate to the project directory:
    ```
