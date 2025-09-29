@@ -1,4 +1,3 @@
-# Stock Analysis and Prediction Dashboard
 
 ## 📊 Comprehensive Stock Market Insights at Your Fingertips
 
