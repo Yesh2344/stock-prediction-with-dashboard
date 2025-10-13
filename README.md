@@ -1,4 +1,3 @@
-# Stock Analysis and Prediction Dashboard
 ## 📊 Comprehensive Stock Market Insights at Your Fingertips
 
 This powerful Python application combines real-time stock analysis with machine learning-based predictions, providing traders and investors with a robust toolkit for making informed decisions.
