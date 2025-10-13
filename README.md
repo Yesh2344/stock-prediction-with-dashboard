@@ -4,6 +4,7 @@
 This powerful Python application combines real-time stock analysis with machine learning-based predictions, providing traders and investors with a robust toolkit for making informed decisions.
 
 
+### 🖼️ Screenshots
 
 ![Stock Dashboard](stock.png)
 *Stock Analysis Dashboard showing real-time data and technical indicators*
