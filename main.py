@@ -162,6 +162,7 @@ elif app_selection == "Stock Prediction":
 
     m=Prophet()
     m.fit(df_train)
+# Added comment
     future=m.make_future_dataframe(periods=period)
     forecast=m.predict(future)
 
