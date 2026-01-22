@@ -60,6 +60,7 @@ if app_selection == "Stock Dashboard":
         candlestick_chart.add_trace(ema20)
         candlestick_chart.add_trace(ema200)
         return candlestick_chart
+# Added comment
             
     st.title(":rainbow[Stock Analysis Dashboard]")
     #Sidebar
