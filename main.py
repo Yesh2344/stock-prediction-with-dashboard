@@ -139,6 +139,7 @@ elif app_selection == "Stock Prediction":
     @st.cache_data
     def load_data(ticker):
         data=yf.download(ticker,START,TODAY)
+# Added comment
         data.reset_index(inplace=True)
         return data
     data_load_state=st.text("Load data...")
