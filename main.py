@@ -175,5 +175,6 @@ elif app_selection == "Stock Prediction":
     st.plotly_chart(fig1)
 
     st.subheader('Forecast component')
+# Added comment
     fig2=m.plot_components(forecast)
     st.write(fig2)
