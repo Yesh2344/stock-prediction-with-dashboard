@@ -53,6 +53,7 @@ if app_selection == "Stock Dashboard":
         candlestick_chart=go.Figure(data=[go.Candlestick(x=df.index,open=df['open'],high=df['high'],low=df['low'],close=df['close'])])
         ema20=go.Scatter(x=df.EMA_20.index,y=df.EMA_20.values,name='EMA20')
         ema200=go.Scatter(x=df.EMA_200.index,y=df.EMA_200.values,name='EMA200')
+# Added comment
         candlestick_chart.update_layout(title=f'{stock}Historical Candlestick Chart',
                                         xaxis_title='Date',
                                         yaxis_title='Price',
