@@ -119,6 +119,7 @@ if app_selection == "Stock Dashboard":
         st.plotly_chart(create_chart(df))
 elif app_selection == "Stock Prediction":
     import streamlit as st
+# Added comment
     from datetime import date
     import yfinance as yf
     from prophet import Prophet
